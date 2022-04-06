@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="colorGray">#EEEEEE</color>
     <color name="colorBlu">#3949AB</color>
+    <color name="colorIndigo">#9FA8DA</color>
+    <color name="colorAmber">#FFC107</color>
+    <color name="colorAmber300">#FFD54F</color>
+
 </resources>

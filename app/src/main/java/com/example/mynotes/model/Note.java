@@ -6,6 +6,12 @@ public class Note {
     private  String description;
     private String createDate;
 
+    public Note(String title, String description, String createDate) {
+        this.title = title;
+        this.description = description;
+        this.createDate = createDate;
+    }
+
     public int getId() {
         return id;
     }
